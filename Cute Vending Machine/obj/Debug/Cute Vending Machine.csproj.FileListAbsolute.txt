@@ -1,0 +1,8 @@
+C:\Users\jacqu\source\repos\Cute Vending Machine\Cute Vending Machine\bin\Debug\Cute Vending Machine.exe.config
+C:\Users\jacqu\source\repos\Cute Vending Machine\Cute Vending Machine\bin\Debug\Cute Vending Machine.exe
+C:\Users\jacqu\source\repos\Cute Vending Machine\Cute Vending Machine\bin\Debug\Cute Vending Machine.pdb
+C:\Users\jacqu\source\repos\Cute Vending Machine\Cute Vending Machine\obj\Debug\Cute Vending Machine.csproj.AssemblyReference.cache
+C:\Users\jacqu\source\repos\Cute Vending Machine\Cute Vending Machine\obj\Debug\Cute Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\jacqu\source\repos\Cute Vending Machine\Cute Vending Machine\obj\Debug\Cute Vending Machine.exe
+C:\Users\jacqu\source\repos\Cute Vending Machine\Cute Vending Machine\obj\Debug\Cute Vending Machine.pdb
+C:\Users\jacqu\source\repos\Cute Vending Machine\Cute Vending Machine\obj\Debug\Cute Vending Machine.exe.config
